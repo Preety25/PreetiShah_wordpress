@@ -8,3 +8,11 @@ Version:1.0
 */
 
 @import url(../twentyseventeen/style.css);
+
+.page-header .page-title h1{
+	color: #f73;
+    font-size: 1.5rem;
+   
+  }
+
+ 
